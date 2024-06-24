@@ -611,6 +611,7 @@ a{
 }
 
 .features__item1{
+    cursor: pointer;
     margin-left: -8px;
     margin-top: 2px;
 }
