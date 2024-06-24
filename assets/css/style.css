@@ -597,9 +597,12 @@ a{
 }
 
 .features__item{
-    cursor: pointer;
     display: flex;
     align-items: center;
+}
+
+.features__item:hover{
+    cursor: pointer;
 }
 
 .features__item2{
@@ -612,7 +615,6 @@ a{
 }
 
 .features__item1{
-    cursor: pointer;
     margin-left: -8px;
     margin-top: 2px;
 }
